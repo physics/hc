@@ -1,6 +1,7 @@
 #!/bin/sh
 # kjv: Read the Word of God from your terminal
 # License: Public domain
+# test
 
 SELF="$0"
 
