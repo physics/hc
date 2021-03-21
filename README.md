@@ -1,13 +1,13 @@
-# kjv
+# hc
 
-Read the Word of God from your terminal
+Read commentary of The Holy Bible from your terminal.
 
-Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha added.
+Forked from [https://github.com/LukeSmithxyz/kjv.git], but commentary instead of the actual verses.
 
 
 ## Usage
 
-    usage: ./kjv [flags] [reference...]
+    usage: ./hc [flags] [reference...]
 
       -l      list books
       -W      no line wrap
@@ -36,10 +36,10 @@ Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kj
 
 ## Build
 
-kjv can be built by cloning the repository and then running make:
+hc can be built by cloning the repository and then running make:
 
-    git clone https://github.com/lukesmithxyz/kjv.git
-    cd kjv
+    git clone https://github.com/physics/hc.git
+    cd hc
     sudo make install
 
 ## License
